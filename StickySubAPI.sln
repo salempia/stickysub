@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickySubAPI", "StickySubAPI\StickySubAPI.csproj", "{C8904F92-B2F5-4012-81C4-169DD4862826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8904F92-B2F5-4012-81C4-169DD4862826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8904F92-B2F5-4012-81C4-169DD4862826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8904F92-B2F5-4012-81C4-169DD4862826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8904F92-B2F5-4012-81C4-169DD4862826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC00A5E5-7A0B-4E80-876D-CD6E2DCEFAB1}
+	EndGlobalSection
+EndGlobal
